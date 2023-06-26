@@ -9,7 +9,7 @@ https://github.com/minomad/a11y-EnterEuid
 강경민<br /> 
 장다은<br /> 
  윤 진<br /> 
-김경아 <a href="http://gitgub.com/201810902">@201810902</a><br />
+김경아<br />
 
 <br/>
 <br/>
