@@ -232,6 +232,7 @@
 .userSetting {
   line-height: $lh160;
   @include padding(18px);
+  @include marginY(0, 50px);
 
   &__link {
     @include paddingY(0, 18px);
@@ -245,4 +246,5 @@
   position: absolute;
   right: 0;
   margin-right: rem(12px);
+  
 }
