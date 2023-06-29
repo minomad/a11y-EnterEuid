@@ -14,7 +14,6 @@
  윤&nbsp;&nbsp;진<a href="https://github.com/pionoiq"> &nbsp;@jin62413</a><br />
 김경아 <a href="http://gitgub.com/201810902">@201810902</a><br />
 
-<br/>
 <h5>배포 URL:https://a11y-entereuid.netlify.app/</h3>
 
 
